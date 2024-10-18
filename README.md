@@ -11,12 +11,9 @@
 
 - 📫 How to reach me **ome3953@gmail.com**
 
-# 🌐 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md. moynol hasan ome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. moynol hasan ome" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/moynol_ome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moynol_ome" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/moynol_hasan_ome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moynol_hasan_ome" height="30" width="40" /></a>
-</p>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-moynol-hasan-ome-2a0084243/) 
+
 
 
 # 💻 Tech Stack:
