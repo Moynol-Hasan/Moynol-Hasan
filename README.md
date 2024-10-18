@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md. Moynol Hasan Ome</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moynol-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="moynol-hasan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moynol-hasan" alt="moynol-hasan" /></a> </p>
+
+- 🔭 I’m currently working on **a web application called visitor management system.**
+
+- 🌱 I’m currently learning **Next js framework**
+
+- 👨‍💻 All of my projects are available at [https://moynol-hasan.github.io/My-Portfolio/](https://moynol-hasan.github.io/My-Portfolio/)
+
+- 💬 Ask me about **React js, Next js**
+
+- 📫 How to reach me **ome3953@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-moynol-hasan-ome-2a0084243/) 
